@@ -1,0 +1,24 @@
+{
+  "name": "@buildsoft/nvs",
+  "version": "0.0.1",
+  "description": "Automatically use the Node version as defined in package.json with nvs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebamarynissen/nvs.git"
+  },
+  "keywords": [
+    "node",
+    "version",
+    "nvs"
+  ],
+  "author": "Sebastiaan Marynissen <sebastiaan.marynissen@buildsoft.eu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebamarynissen/nvs/issues"
+  },
+  "homepage": "https://github.com/sebamarynissen/nvs#readme"
+}
