@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Automatically use the Node version as defined in package.json with nvs",
   "main": "index.js",
+  "bin": {
+    "run-with-version": "./cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
